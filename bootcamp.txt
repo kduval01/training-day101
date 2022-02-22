@@ -1,5 +1,8 @@
-1) What are comments?
-2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines. ''' 
+
+
+1) What are comments? placing human readable descriptions inside of a computer program detailing what the code is doing.
+2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
+                                                     One should be for multiple lines. ''' 
                                                                                           this is a comment 
                                                                                           written in
                                                                                       ''' 
