@@ -1,18 +1,41 @@
 1) What are comments?
-2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines. ''' 
-                                                                                          this is a comment 
-                                                                                          written in
-                                                                                      ''' 
-                                                                                      # this is a comment (single)    
-3) If the name of a file is app.py what do we type in the command line to tell our computer to run it? python3 app.py 
+placing readable descriptions inside of a computer programs detailing what the code is doing
+
+2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines. 
+'''              
+ this is a comment 
+ written in
+ more than just one line
+''' 
+ # this is a comment     
+
+3) If the name of a file is app.py what do we type in the command line to tell our computer to run it? 
+python3 app.py 
+
 4) Demonstrate how I can tell a Python program to display something in the command line.
+python3
+
 5) What can we use to save a value for later use in our code? Provide an example.
+varibles save value for later use.
+carname = "Volvo" 
+
 6) What can I do to prevent certain files and directories from being tracked by git?
+gitignore
 7) What can be used in order to repeat some block of code? Provide 2 examples.
+while loop, for loop
+
 8) When saving a value for later use what type of operator do we use?
+= assignment
+
 9) What's the key difference between git revert and git reset?
+git revert can be accessed again but git reset can not be accessed again 
+
 10) What's the key difference between Python lists and tuples?
+tuples value can't be changed 
+
 11) What can I do to know where I am within my file system?
+ls
+
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
