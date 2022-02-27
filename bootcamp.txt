@@ -37,17 +37,55 @@ tuples value can't be changed
 ls
 
 12) Describe the anatomy of a Python dictionary and create one below.
+Dictionaries are used to store data values in key:value pairs.
+
+thisdict = {
+   "name": "Ben",
+   "age": "26",
+   "race": "Black",
+}   
+print(thisdict)
+
 13) What type of values can be in a Python dictionary?
+any data type string, Int, boolean, and list 
+
 14) What type of values can be in a Python list?
+any data type string, Int, boolean, and list 
+
 15) What data type are True and False?
+boolean 
+
 16) What language does your computer understand?
+binary 0 and 1
+
 17) What do we need in order for your computer to make use of programming languages?
+Terminal 
+
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
+[1]
+
 19) What does frontend / client side mean?
+chrome (broswer)
+javascript
+css
+htnl
+
 20) What does backend / server side mean?
+my code
+translate
+machine code
+
 21) What are 3 way to create a Python string?
+'kim'
+"kim"
+"""
+kim
+"""
 22) What are 2 types of number data types in Python? Provide an example.
+Integer 16
+Float 2.8
 23) Are we able to add two strings together? How?
+
 24) What commands would you use to create the following file structure? (write every command line by line):
     
     Desktop
